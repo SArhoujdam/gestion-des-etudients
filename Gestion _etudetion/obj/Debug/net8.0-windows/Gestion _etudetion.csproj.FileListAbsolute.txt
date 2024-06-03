@@ -1,0 +1,16 @@
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion__etudetion.Form1.resources
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.csproj.GenerateResource.cache
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.AssemblyInfoInputs.cache
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.AssemblyInfo.cs
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.csproj.CoreCompileInputs.cache
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\bin\Debug\net8.0-windows\Gestion _etudetion.exe
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\bin\Debug\net8.0-windows\Gestion _etudetion.deps.json
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\bin\Debug\net8.0-windows\Gestion _etudetion.runtimeconfig.json
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\bin\Debug\net8.0-windows\Gestion _etudetion.dll
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\bin\Debug\net8.0-windows\Gestion _etudetion.pdb
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.dll
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\refint\Gestion _etudetion.dll
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.pdb
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\Gestion _etudetion.genruntimeconfig.cache
+C:\Users\soulayman\source\repos\Gestion _etudetion\Gestion _etudetion\obj\Debug\net8.0-windows\ref\Gestion _etudetion.dll
